@@ -2,4 +2,4 @@
   Bacharelado em ciência da computação;
 
 -Trabalho atual:
-  Analista de sistemas JR na Capgemini Brasil;
+  Analista desenvolvedor pleno na Accenture Brasil;
